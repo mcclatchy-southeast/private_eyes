@@ -67,7 +67,7 @@ Have questions? Spot an error in our data? Contact Tyler Dukes at [mtdukes@newso
 
 ### Data dictionary/field layout
 
-### nc_agency_surveyYYYYMMDD
+### [nc_agency_surveyYYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/nc_agency_survey20240430.csv)
 A listing of North Carolina law enforcement agencies using ALPR vendors, according to a survey of 160+ agencies conducted by The News & Observer August 2023 to April 2024, records from the State Bureau of Investigation and a review of contracts and Flock transparency portals, updated as of the file name date.
 
 |field|description |
@@ -84,8 +84,8 @@ A listing of North Carolina law enforcement agencies using ALPR vendors, accordi
 | flock_portal_url | Flock portal URL, if applicable |
 | document_url | Contract or SBI letter noting ALPR use, if applicable |
 
-### latest_usageYYYMMDD
-The latest usage data scraped from all known law enforcement agency Flock transparency portals, as of the file name date.
+### [latest_usageYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/latest_usage04262023.csv)
+The latest usage data scraped from all known law enforcement agency Flock transparency portals, as of the file name date. Layout is identical to the full usage file, just filtered for the most recent date.
 
 | field |description  |
 |:--|:--|
@@ -103,7 +103,7 @@ The latest usage data scraped from all known law enforcement agency Flock transp
 |searches_in_the_last_30_days| number of searches performed by law enforcement officers in the last 30 days. |
 |public_search_audit| binary indicator of whether the agency's transparency portal includes a CSV file of public information from the last 30 days of searches by officers |
 
-### agency_usageYYYYMMDD
+### [agency_usageYYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/agency_usage04262023.csv)
 Combined usage data scraped from all known law enforcement agency Flock transparency portals, as of the date the latest data was accesssed. File contains all 118 days of data captured periodically from July 27, 2023, through the file name date.
 
 | field |description  |
@@ -122,7 +122,7 @@ Combined usage data scraped from all known law enforcement agency Flock transpar
 |searches_in_the_last_30_days| number of searches performed by law enforcement officers in the last 30 days. |
 |public_search_audit| binary indicator of whether the agency's transparency portal includes a CSV file of public information from the last 30 days of searches by officers |
 
-### agency_policies
+### [agency_policies](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/agency_policies.csv)
 Policy data scraped from each law enforcement agency's Flock transparency portal. Policies are captured only once unless they change.
 
 | field |description  |
@@ -140,7 +140,7 @@ Policy data scraped from each law enforcement agency's Flock transparency portal
 |access_policy| policy for access to data |
 |hotlist_policy| policy for handling hits to hotlist items |
 
-### agency_accessYYYYMMDD
+### [agency_accessYYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/agency_access20240426.csv)
 Lookup table linking law enforcement agencies to others with external access to data through the Flock ALPR system, according to the source agency's transparency portal, as of the date the latest data was pulled.
 
 | field |description  |
@@ -150,7 +150,7 @@ Lookup table linking law enforcement agencies to others with external access to 
 |src_agency_id| id of source/originating agency |
 |external_agency_id| id of agency with external access |
 
-### public_search_auditYYYYMMDD
+### [public_search_auditYYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/public_search_audit20240426.csv)
 Combined public search audit data from all known transparency portals captured regularly during the period from late July 2023 to late April 2024.
 
 | field |description  |
@@ -161,7 +161,7 @@ Combined public search audit data from all known transparency portals captured r
 |accessed| date public search audit data was last updated |
 |updated| date public search audit data was last updated |
 
-### transparency_url_statusYYYMMDD
+### [transparency_url_statusYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/transparency_url_status20240429.csv)
 List of transparency portal URLs periodically attempted by the scraper, last attempted as of the file name date.
 
 | field |description  |
@@ -172,7 +172,7 @@ List of transparency portal URLs periodically attempted by the scraper, last att
 |status_code| status code returned in latest access attempt |
 |notes| free text notes field. shows `New valid url` if url has been added since an initial check |
 
-### agencyYYYYMMDD
+### [agencyYYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/agency20240426.csv)
 Master list of all law enforcement agencies with an assigned ID, as of the date the latest data was pulled. An agency's presence on this list does not indicate whether it uses ALPR devices.
 
 | field |description  |
@@ -181,6 +181,6 @@ Master list of all law enforcement agencies with an assigned ID, as of the date 
 |name| law enforcement agency name |
 |notes| free text notes field |
 
-### Acknowledgements
+## Acknowledgements
 
 Private Eyes was reported and written by News & Observer investigative reporter Tyler Dukes. News & Observer transportation reporter Richard Stradling contributed reporting. Charlotte Observer public safety reporter Ryan Oehrli, Wichita Eagle investigative reporter Chance Swaim and Tennessee-based freelance investigative reporter Jessica Jaglois assisted with public records. | Edited by Cathy Clabby | Data visualization and design by Susan Merriam | Development and design by David Newcomb | Illustrations and animation by Sohail Al-Jamea | Photos, drone footage and videos by News & Observer and Charlotte Observer visual journalists Robert Willett, Travis Long & Kevin Keister | Audience outreach and engagement by Laura Brache and Elizabeth Walters
