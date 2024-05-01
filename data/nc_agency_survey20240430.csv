@@ -64,7 +64,7 @@ id,name,type,city,county,notes,company,cams_confirmed,cams_portal,flock_portal_u
 2138,Raleigh NC PD,PD,Raleigh,Wake,Confirmed by dept.,Flock,26,26,https://transparency.flocksafety.com/raleigh-nc-pd,
 1095,Guilford County SO,SO,Greensboro,Guilford,Confirmed by dept. used Flock as demo; Planning to purchase,Flock,Unknown,NA,NA,https://www.documentcloud.org/documents/24479735-ncic-guilford-county-sheriffs-office
 1167,Henderson NC PD,PD,Henderson,Vance,Confirmed by dept.; 25 cameras planned,Flock,21,NA,NA,
-2893,WakeMed Campus PD and Public Safety (NC),Private PD,Raleigh,Wake,"Confirmed by dept.; 25 planned, but injunction slowing progress",Flock,Unknown,NA,NA,
+2893,WakeMed Campus PD and Public Safety (NC),Private PD,Raleigh,Wake,"Confirmed by dept.; 26 planned, but injunction slowing progress; 22 installed as of 4/30",Flock,22,NA,NA,
 243,Boiling Springs NC PD,PD,Boiling Springs,Cleveland,Confirmed by dept.; Contract for 4 cameras; no cameras installed as of 11/29,Flock,0,NA,NA,
 2876,Apex NC PD,PD,Apex,Wake,Confirmed by dept.; Contract signed but no cameras installed as of 4/30,Flock,0,NA,NA,https://www.documentcloud.org/documents/24493870-apex-police-flock-safety-contract-6302023
 2460,Tabor City NC PD,PD,Tabor City,Columbus,"Confirmed by dept.; Contract signed fo 1 camera, not yet installed due to ROW issues as of 4/30",Flock,0,0,https://transparency.flocksafety.com/tabor-city-nc-pd,
