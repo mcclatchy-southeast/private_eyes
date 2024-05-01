@@ -151,7 +151,7 @@ Lookup table linking law enforcement agencies to others with external access to 
 |external_agency_id| id of agency with external access |
 
 ### [public_search_auditYYYYMMDD](https://github.com/mcclatchy-southeast/private_eyes/blob/main/data/public_search_audit20240426.csv)
-Combined public search audit data from all known transparency portals captured regularly during the period from late July 2023 to late April 2024.
+Public search audit data from all known transparency portals captured regularly during the period from late July 2023 to late April 2024. The file here is combined using distinct search ids assigned by Flock.
 
 | field |description  |
 |:--|:--|
