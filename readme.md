@@ -36,7 +36,7 @@ Details gathered from the sites also revealed which police and sheriff’s depar
 
 In all, the project as of mid-April collected data on more than 360 Flock transparency sites for agencies across the country.
 
-It’s hard to know how many of the company’s more than 5,000 clients have active transparency portals — or what percentage of those sites The N&O’s list captured.
+It’s hard to know how many of the company’s more than 5,000-plus law enforcement clients have active transparency portals — or what percentage of those sites The N&O’s list captured.
 
 In April, Flock did provide a list of 33 North Carolina agency portals. Comparing the two lists, The N&O’s was missing 3 of the active sites, while the company omitted one from the reporter’s list.
 
