@@ -29,7 +29,7 @@ The N&O created an initial list of web addresses after looking for transparency 
 
 More web addresses were added after The N&O began surveying more than 160 North Carolina law enforcement agencies to ask about their use of ALPR vendors and whether they had launched a transparency portal for their own activity.
 
-The N&O supplemented its lists with records from the State Bureau of Investigation, which provided details on which agencies obtained access to data extracts from the National National Crime Information Center, which tracks vehicles and license plates of wanted suspects. This data is linked to an agency’s Flock Safety system to match and provide automatic alerts on vehicles of interest that pass by the license plate cameras leased by the agency.
+The N&O supplemented its lists with records from the State Bureau of Investigation, which provided details on which agencies obtained access to data extracts from the National Crime Information Center, which tracks vehicles and license plates of wanted suspects. This data is linked to an agency’s Flock Safety system to match and provide automatic alerts on vehicles of interest that pass by the license plate cameras leased by the agency.
 
 After building the list, the N&O used code to regularly collect data on each site from late July to mid-April to better understand, based on publicly available information, how the devices are used.
 
