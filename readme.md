@@ -12,7 +12,8 @@ Below, you'll find links to our reporting and resources and data that powered Th
 
 ## Read the series
 
-*Read our three-part series planned for early May 2024.*
+* [Camera by camera, North Carolina police build growing network to track vehicles](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)<br/>May 1, 2024 // *Tyler Dukes*
+* [Private Eyes: How we tracked the spread of license plate readers across North Carolina](https://www.newsobserver.com/news/state/north-carolina/article287835755.html)<br/>May 1, 2024 // *Tyler Dukes*
 
 ## How we did this story
 
