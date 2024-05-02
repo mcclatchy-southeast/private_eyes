@@ -13,6 +13,8 @@ Below, you'll find links to our reporting and resources and data that powered Th
 ## Read the series
 
 * [Camera by camera, North Carolina police build growing network to track vehicles](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)<br/>May 1, 2024 // *Tyler Dukes*
+* [NC police errors with license plate cameras brought wrongful arrests, $70K to women](https://www.newsobserver.com/news/state/north-carolina/article287381160.html)<br/>May 2, 2024 // *Tyler Dukes*
+* [Neighbors watching neighbors? HOA vehicle surveillance irks some in NC neighborhood](https://www.newsobserver.com/news/state/north-carolina/article288186795.html)<br/>May 2, 2024 // *Tyler Dukes*
 * [Private Eyes: How we tracked the spread of license plate readers across North Carolina](https://www.newsobserver.com/news/state/north-carolina/article287835755.html)<br/>May 1, 2024 // *Tyler Dukes*
 
 ## How we did this story
